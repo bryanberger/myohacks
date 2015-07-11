@@ -1,0 +1,14 @@
+{
+  "name": "myo",
+  "version": "0.0.0",
+  "description": "myo hax",
+  "main": "server.js",
+  "author": "Bryan Berger",
+  "private": true,
+  "license": "BSD",
+  "dependencies": {
+    "express": "^4.12.4",
+    "jade": "^1.11.0",
+    "underscore": "^1.8.3"
+  }
+}
